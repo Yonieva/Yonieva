@@ -1,6 +1,6 @@
 ## Bonjour a tous 👋
-Coding //
-Musician (bass player) // 
+Coding
+Musician (bass player)
 
 
 
