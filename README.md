@@ -1,7 +1,7 @@
 ## Bonjour a tous 👋
-Coding  
+Developpeur Web et en language C et C++ 
 
-Musician (bass player)  
+Musicien (Bassiste)  
 
 
 
