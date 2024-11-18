@@ -1,8 +1,6 @@
 ## Bonjour a tous 👋
 Developpeur Web et en language C et C++ 
 
-Centre d interets :  
-
 Musicien (Bassiste)  
 
 Sports (Football, Padel)  
