@@ -1,5 +1,5 @@
 ## Hello World 👋
-Developpeur Web et en language C et C++ 
+Developpeur en language C et C++ et JavaScript 
 
 Musicien (Bassiste)  
 
@@ -9,7 +9,7 @@ Jeux video (Jeux en ligne / Jeux Solo)
 
 Metaphysique et Sciences  
 
-Philosophie  
+
 
 
 
