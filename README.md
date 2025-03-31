@@ -1,5 +1,5 @@
 ## Hello World 👋
-Developpeur en language C et C++ et JavaScript 
+Developpeur en language C, C++ et JavaScript 
 
 Musicien (Bassiste)  
 
