@@ -37,6 +37,6 @@ Metaphysique et Sciences
 
 ---
 
-### 🧠 Algo en C++
-[![C++ Algo](URL_DU_GIF_CPP)](https://github.com/tonpseudo/tri-rapide-cpp)
-> Implémentation et visualisation d’un algorithme de tri rapide en C++.
+### © Projets en Language C
+[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvajhxbnV0azIxc2p4cWVhbW5tcjRsMnRxamhwcW5haTZ4dWZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GwtfUx2P2HnvByDZdg/giphy.gif)](https://github.com/Yonieva/Projets-en-language-C)
+> Projets et exercices de l'ecole 42 en language C.
