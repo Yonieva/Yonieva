@@ -33,10 +33,10 @@ Metaphysique et Sciences
 
 ### 🌐 Docker - Projet Inception
 [![Site Web](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU0a3BreXlnaGozcjhpZnRndTg1bWszNGY5dWlnbTAxZ2UwNXl0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3owvKdSecsPWrDDjIQ/giphy.gif)](https://github.com/Yonieva/Inception/tree/main/inception)
-> Mise en place dans une machine vietuelle d'une mini-infrastructure de différents services en utilisant Docker-compose.
+> Mise en place dans une machine virtuelle d'une mini-infrastructure de différents services en utilisant Docker-compose.
 
 ---
 
-### © Projets en Language C
+### © 42 - Projets en Language C
 [![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvajhxbnV0azIxc2p4cWVhbW5tcjRsMnRxamhwcW5haTZ4dWZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GwtfUx2P2HnvByDZdg/giphy.gif)](https://github.com/Yonieva/Projets-en-language-C)
 > Projets et exercices de l'ecole 42 en language C.
