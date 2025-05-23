@@ -19,7 +19,7 @@ Metaphysique et Sciences
 ##  Mes Projets
 
 ### 🎮 Jeu en C - Castlevania 3D
-[![Jeu en C]([https://media1.tenor.com/m/-obqO-sjy6UAAAAd/castlevania-trevor-belmont.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rdjkyZGJ1eGUxNmZ5eHY1bGFmOGwyNm95eHptdjdhbjg1OHBiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26Su5umeQ96mpOmkee/giphy.gif))](https://github.com/Yonieva/Castlevania-3d-Raycasting/blob/main/README.md)
+[![Jeu en C](https://i.giphy.com/26Su5umeQ96mpOmkee.webp)](https://github.com/Yonieva/Castlevania-3d-Raycasting/blob/main/README.md)
 > Base du jeu DOOM utilisant la technique du raycasting, sur le thème de Castlevania.
 
 
