@@ -13,9 +13,4 @@ Metaphysique et Sciences
 
 
 
-
-
-
-
-
 ![Bannière](./giphy.webp)
