@@ -37,6 +37,12 @@ Metaphysique et Sciences
 
 ---
 
+### C++ - Projets IRC
+[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9pNjU0Z3VnbXRwaGJodGlkaHAyYTBvdjNzaTZjcmJjZXd2MHYyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EqGGGbjjFltjG/giphy.gif)](https://github.com/gaesteve42/IRC)
+> Implementation d'un serveur IRC fonctionnel.
+
+---
+
 ### © 42 - Projets en Language C
 [![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvajhxbnV0azIxc2p4cWVhbW5tcjRsMnRxamhwcW5haTZ4dWZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GwtfUx2P2HnvByDZdg/giphy.gif)](https://github.com/Yonieva/Projets-en-language-C)
 > Projets et exercices de l'ecole 42 en language C.
