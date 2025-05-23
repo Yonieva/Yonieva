@@ -38,7 +38,7 @@ Metaphysique et Sciences
 ---
 
 ### C++ - Projets IRC
-[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9pNjU0Z3VnbXRwaGJodGlkaHAyYTBvdjNzaTZjcmJjZXd2MHYyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EqGGGbjjFltjG/giphy.gif)](https://github.com/gaesteve42/IRC)
+[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ZTNhM3I3MmsxN2V4ZmZvZm1wNzAxZ2c5NzBuNmt5d3d0bnczaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EmeieJAGjvUI/giphy.gif)](https://github.com/gaesteve42/IRC)
 > Implementation d'un serveur IRC fonctionnel.
 
 ---
