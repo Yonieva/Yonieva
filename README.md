@@ -33,7 +33,7 @@ Metaphysique et Sciences
 
 ### 🌐 Docker - Projet Inception
 [![Site Web](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU0a3BreXlnaGozcjhpZnRndTg1bWszNGY5dWlnbTAxZ2UwNXl0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3owvKdSecsPWrDDjIQ/giphy.gif)](https://github.com/Yonieva/Inception/tree/main/inception)
-> Mise en place dans une machine viturelle d'une mini-infrastructure de différents services en utilisant Docker-compose.
+> Mise en place dans une machine vietuelle d'une mini-infrastructure de différents services en utilisant Docker-compose.
 
 ---
 
