@@ -27,7 +27,7 @@ Metaphysique et Sciences
 
 ### 📟 Projet en C - Minishell
 [![Docker API](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFxbm5odDF5ODk4NjV3b2U0MHB2bXVoeDdicWI0cGFja2l4OHlieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JmJMzlXOiI0dq/giphy.gif)](https://github.com/Demiaeuw/42_student/tree/main/08_minishell)
-> Reprodution d un Shell.
+> Reprodution simplifiée du shell Unix.
 
 ---
 
