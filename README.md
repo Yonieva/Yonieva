@@ -37,19 +37,19 @@ Metaphysique et Sciences
 
 ---
 
-### C++ - Projets IRC
+### 🌐 - Projets IRC
 [![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ZTNhM3I3MmsxN2V4ZmZvZm1wNzAxZ2c5NzBuNmt5d3d0bnczaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EmeieJAGjvUI/giphy.gif)](https://github.com/gaesteve42/IRC)
 > Implementation d'un serveur IRC fonctionnel.
 
 ---
 
-### © 42 - Projets en Language C
+### 📟- Projets en Language C
 [![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvajhxbnV0azIxc2p4cWVhbW5tcjRsMnRxamhwcW5haTZ4dWZuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GwtfUx2P2HnvByDZdg/giphy.gif)](https://github.com/Yonieva/Projets-en-language-C)
 > Projets et exercices de l'ecole 42 en language C.
 
 ---
 
-### C++ 42 - Projets en Language C++
+### 📟 - Projets en Language C++
 [![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ280NG0zcjEzcW9saWt5MjJyM25sNjY2ZnZ6Mzg4MG1yZWRvM2szbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif)](https://github.com/Yonieva/Projets-en-language-CPP)
 > Projets et exercices de l'ecole 42 en language C++.
 
