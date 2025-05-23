@@ -44,7 +44,7 @@ Metaphysique et Sciences
 ---
 
 ### C++ 42 - Projets en Language C++
-[![C++ Algo](https://art.pixilart.com/0d92ea76c0f540a.gif)](https://github.com/Yonieva/Projets-en-language-CPP)
+[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ280NG0zcjEzcW9saWt5MjJyM25sNjY2ZnZ6Mzg4MG1yZWRvM2szbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif)](https://github.com/Yonieva/Projets-en-language-CPP)
 > Projets et exercices de l'ecole 42 en language C++.
 
 
