@@ -56,7 +56,7 @@ Metaphysique et Sciences
 ---
 
 ### 🌐 - Projet IRC
-[![C++ Algo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ZTNhM3I3MmsxN2V4ZmZvZm1wNzAxZ2c5NzBuNmt5d3d0bnczaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EmeieJAGjvUI/giphy.gif)](https://github.com/gaesteve42/IRC)
+[![C++ Algo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdjYXN0djgxaGE1ZXE5aGZhcjE5M2xhZGlvMmM5d3FodjZocWU1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gJyTNcNib4MI944/giphy.gif)](https://github.com/gaesteve42/IRC)
 > Implementation d'un serveur IRC fonctionnel.
 
 ---
