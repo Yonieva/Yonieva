@@ -35,7 +35,8 @@ Details des projets realises et skills à l'école 42 :
 
 🎸 Bassiste  
 🎾 Padel  
-🧠 Passionné de sciences & systèmes  
+🧠 Passionné de sciences & systèmes 
+🕹️ Rétro Gaming
 
 </details>
 
