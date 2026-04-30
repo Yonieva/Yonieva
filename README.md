@@ -37,7 +37,7 @@ Metaphysique et Sciences
 ### ⚡ Projet en C++ -EDF CSV TOOL
 [![Site Web](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBuamRkdzdsZnV2b3JnNHJvcnNrc3FyaWpyM2oxYnkxNGplYzU1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
 
-> Ce projet a été réalisé dans le cadre d’un stage à la communauté de communes Albères, Côte Vermeille, Illibèris.
+> Ce projet a été réalisé dans le cadre d’un stage à la communauté de communes Albères, Côte Vermeille, Illibèris.   
 > Outil en C++ permettant de consulter, analyser et rechercher facilement dans des fichiers CSV de facturation EDF, directement depuis le terminal.
 
 ---
