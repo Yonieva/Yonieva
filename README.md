@@ -33,6 +33,15 @@ Metaphysique et Sciences
 
 ##  Mes Projets
 
+
+### ⚡ Projet en C++ -EDF CSV TOOL
+[![Site Web](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBuamRkdzdsZnV2b3JnNHJvcnNrc3FyaWpyM2oxYnkxNGplYzU1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
+
+> Ce projet a été réalisé dans le cadre d’un stage à la communauté de commune Albères, Côte Vermeille, Illibèris.
+> Outil en C++ permettant de consulter, analyser et rechercher facilement dans des fichiers CSV de facturation EDF, directement depuis le terminal.
+
+---
+
 ### 🌐 JavaScript/HTML - Ft_Transcendence
 [![Site Web](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpraWJoZmR1Z2g4MXBsczMzaTRhOTl0NDBiaWM0bHI4OHpsOWxrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
 
