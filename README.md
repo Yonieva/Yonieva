@@ -17,10 +17,9 @@ Software Engineer – Backend, APIs & Industrial Systems
 Details des projets realises et skills à l'école 42 :                                                             
 (https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf) 
 
-## 📬 Contact
 
 <details>  
-<summary>Cliquer pour afficher</summary>
+<summary>Mes Contacts</summary>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoan%20Onieva-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoan-onieva)
 
