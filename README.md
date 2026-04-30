@@ -1,4 +1,5 @@
 ## Moi, c'est Yoan !
+Software Engineer – Backend, APIs & Industrial Systems
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,6 +12,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23011E2C.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+Details des projets realises et skills à l'école 42 :                                                             
+(https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf) 
 
 ## 📬 Contact
 
@@ -23,8 +26,7 @@
 
 </details>
  
-Details des projets realises et skills à l'école 42 :                                                             
-(https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)   
+  
 
 
 <details>
