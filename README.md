@@ -17,8 +17,11 @@
 <details>  
 <summary>Cliquer pour afficher</summary>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yoan-onieva)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:onievayoan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoan%20Onieva-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoan-onieva)
+
+[![Email](https://img.shields.io/badge/Email-onievayoan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onievayoan@gmail.com)
+
+[![Téléphone](https://img.shields.io/badge/Téléphone-06--28--32--27--46-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+33628322746)
 
 </details>
 
