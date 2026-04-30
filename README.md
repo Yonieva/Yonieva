@@ -12,7 +12,14 @@
 ![Vim](https://img.shields.io/badge/Vim-%23011E2C.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
+## 📬 Contact
 
+<details>
+<summary>Cliquer pour afficher</summary>
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:onievayoan@gmail.com)
+
+</details>
 
 Mobile   : 06-28-32-27-46   
 Mail pro : onievayoan@gmail.com   
