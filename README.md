@@ -1,4 +1,4 @@
-## Hello World 👋
+## Moi, c'est Yoan !
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,21 +21,20 @@
 
 [![Email](https://img.shields.io/badge/Email-onievayoan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onievayoan@gmail.com)
 
-[![Téléphone](https://img.shields.io/badge/Téléphone-06--28--32--27--46-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+33628322746)
-
 </details>
-
-Mobile   : 06-28-32-27-46   
-Mail pro : onievayoan@gmail.com   
-Intra 42 : yonieva@student.42perpignan.fr   
+ 
 Details des projets realises et skills à l'école 42 :                                                             
 (https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)   
 
 
-Musicien (Bassiste)  
-Sports (Padel)  
-Jeux video (Jeux en ligne / Jeux Solo)  
-Metaphysique et Sciences  
+<details>
+<summary>🧠 Plus sur moi</summary>
+
+🎸 Bassiste  
+🎾 Padel  
+🧠 Passionné de sciences & systèmes  
+
+</details>
 
 
 
