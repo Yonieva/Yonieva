@@ -17,7 +17,7 @@
 Mobile   : 06-28-32-27-46   
 Mail pro : onievayoan@gmail.com   
 Intra 42 : yonieva@student.42perpignan.fr   
-Details des projets realises et skills :                                                             
+Details des projets realises et skills à l'école 42 :                                                             
 (https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)   
 
 
