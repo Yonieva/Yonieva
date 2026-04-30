@@ -41,11 +41,8 @@ Details des projets realises et skills à l'école 42 :
 </details>
 
 
-
 ![Bannière](./giphy.webp)
-## 🐍 Contributions
 
-![snake gif](https://github.com/Yonieva/Yonieva/blob/output/github-contribution-grid-snake.svg)
 
 ##  Mes Projets
 
