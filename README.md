@@ -15,6 +15,7 @@
 ## 📬 Contact
 
 <details>
+  
 <summary>Cliquer pour afficher</summary>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yoan-onieva)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:onievayoan@gmail.com)
