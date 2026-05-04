@@ -1,3 +1,4 @@
+## Moi, c'est Yoan !!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=800&lines=Yoan+-+Software+Engineer;C%2B%2B+%7C+JavaScript+%7C+Node.js;API+%7C+Data+%7C+Industrial+Systems;Passionné+par+les+projets+concrets+⚡" />
 </p>
@@ -8,7 +9,7 @@
 
 ---
 
-## Moi, c'est Yoan !! 
+ 
 <p align="center">
   💻 Développeur sur <b><a href="https://diniiz.com/">Diniiz</a></b><br>
   Plateforme digitale pour la gestion et la mise en relation dans la restauration<br><br>
