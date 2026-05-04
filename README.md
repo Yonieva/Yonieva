@@ -8,20 +8,23 @@
 
 ---
 
-<p align="center">
-  <a href="https://diniiz.com/">
-    <img src="./assets/diniiz-logo.png" width="140"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://diniiz.com/">
-  </a>
-</p>
+<a href="https://diniiz.com/">
+  <img src="./assets/diniiz-logo.png" width="120" alt="Logo Diniiz"/>
+</a>
 
-<p align="center">
-  ↗️👨‍💻 Dev sur le projet Diniiz↖️<br>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;Reprise+%7C+Optimisation+%7C+Fiabilisation+⚡" />
+
+<br>
+
+<a href="https://diniiz.com/">
+  <img src="https://img.shields.io/badge/Visiter%20Diniiz-diniiz.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
