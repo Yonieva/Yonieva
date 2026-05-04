@@ -80,7 +80,7 @@
 
 ---
 
-## 🎓 Projets École 42
+## 🎓 Projets École 42 📄 [Voir mes projets et compétences](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
 
 ### 🌐 Ft_Transcendence
 [![Projet](https://media3.giphy.com/media/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
