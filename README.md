@@ -1,4 +1,4 @@
-## Moi, c'est Yoan ! Software Engineer – Backend, APIs & Industrial Systems
+## Moi, c'est Yoan ! Software Engineer – Backend, Frontend, APIs & Industrial Systems
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
