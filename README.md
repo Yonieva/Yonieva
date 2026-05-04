@@ -75,7 +75,7 @@
 ## 💼 Projets Professionnels
 
 ### ⚡ EDF CSV TOOL (C++)
-[![EDF](https://media.giphy.com/media/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
+[![EDF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVrYW1pZ2dta2M4N2QweHBzbWl6NDdndnYxYjMxM2N5NzdndWI5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QytRJAvwnaU7rvvjxC/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
 > Ce projet a été réalisé pour la Régie de l' eau de la communauté de communes Albères, Côte Vermeille, Illibèris  
 > Outil en C++ pour analyser des fichiers CSV EDF sans Excel  
 > Rapide, simple, efficace  
