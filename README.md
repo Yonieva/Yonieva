@@ -1,4 +1,3 @@
-## Moi, c'est Yoan !!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Développeur+Backend+%7C+API+%7C+Data;Diniiz+%7C+Topkapi+%7C+Projets+concrets;Jeux+vidéo+%7C+Logiciels+internes+%7C+Web+%7C+Apps+" />
 </p>
