@@ -21,6 +21,7 @@
 </p>
 
 <p align="center">
+  👨‍💻 Dev sur le projet Diniiz
   ⚙️ Analyse et reprise d’un projet existant<br>
   🧠 Amélioration de l’architecture backend<br>
   🔗 Intégration et fiabilisation des API<br>
