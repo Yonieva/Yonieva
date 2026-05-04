@@ -91,7 +91,7 @@
 ### 📟 Minishell
 [![Projet](https://media2.giphy.com/media/JmJMzlXOiI0dq/giphy.gif)](https://github.com/Demiaeuw/42_student/tree/main/08_minishell)
 
-### 🐳 Inception
+### 💻 Inception
 [![Projet](https://media.giphy.com/media/3owvKdSecsPWrDDjIQ/giphy.gif)](https://github.com/Yonieva/Inception/tree/main/inception)
 
 ### 🌐 IRC Server
@@ -120,6 +120,6 @@
 🎸 Bassiste  
 🎾 Padel  
 🧠 Passionné de sciences  
-🕹️ Rétro Gaming  
+🕹️ Rétro Gaming
 
 </details>
