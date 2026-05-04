@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Développeur+Backend+%7C+API+%7C+Data;Diniiz+%7C+Topkapi+%7C+Projets+concrets;Jeux+vidéo+%7C+Logiciels+internes+%7C+Web+%7C+Apps+" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Jeux+vidéo+%7C+Logiciels+internes+%7C+Web+%7C+Apps+" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;Reprise+%7C+Optimisation+%7C+Fiabilisation+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;" />
 
 <br>
 
