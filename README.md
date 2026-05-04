@@ -21,8 +21,7 @@
 </p>
 
 <p align="center">
- ⏫⏫⏫
-  👨‍💻 Dev sur le projet Diniiz<br>
+  ↗️👨‍💻 Dev sur le projet Diniiz↖️<br>
 </p>
 
 ---
