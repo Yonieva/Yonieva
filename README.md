@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://diniiz.com/">
-    <img src="https://diniiz.com/favicon.ico" width="100" style="border-radius:20px;" />
+    <img src="https://img.shields.io/badge/Diniiz-Plateforme%20Restauration-black?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
   🧠 Amélioration de l’architecture backend<br>
   🔗 Intégration et fiabilisation des API<br>
   🚀 Optimisation des performances
-</p> 
+</p>
 
 ---
 
