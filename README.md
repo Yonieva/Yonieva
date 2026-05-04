@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Yoan+-+Software+Engineer;C%2B%2B+%7C+JavaScript+%7C+Node.js;API+%7C+Data+%7C+Industrial+Systems;Passionné+par+les+projets+concrets+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=800&lines=Yoan+-+Software+Engineer;C%2B%2B+%7C+JavaScript+%7C+Node.js;API+%7C+Data+%7C+Industrial+Systems;Passionné+par+les+projets+concrets+⚡" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yonieva&label=Visiteurs&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Yonieva&style=for-the-badge" />
 </p>
 
 ---
 
-## 👋 Moi, c'est Yoan  
+## Moi, c'est Yoan !! 
 ### Software Engineer – Backend, Frontend, APIs & Industrial Systems
 
 ---
@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonieva&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonieva&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonieva&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonieva&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -55,11 +55,10 @@
 ## 💼 Projets Professionnels
 
 ### ⚡ EDF CSV TOOL (C++)
-[![Projet](https://media.giphy.com/media/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
+[![EDF](https://media.giphy.com/media/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
 
-> Outil en C++ permettant de consulter, analyser et rechercher des fichiers CSV EDF sans Excel  
-> 🔥 Analyse rapide de données volumineuses  
-> ⚡ Gain de temps sur traitement terrain  
+> Outil en C++ pour analyser des fichiers CSV EDF sans Excel  
+> ⚡ Rapide, simple, efficace  
 
 ---
 
@@ -68,49 +67,17 @@
 ### 🌐 Ft_Transcendence
 [![Projet](https://media3.giphy.com/media/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
 
-> Application web complète avec authentification, jeu PONG 3D, tournois, IA et statistiques
-
----
-
-### 🎮 Castlevania 3D (C)
-[![Projet](https://i.giphy.com/26Su5umeQ96mpOmkee.webp)](https://github.com/Yonieva/Castlevania-3d-Raycasting/blob/main/README.md)
-
-> Moteur type DOOM utilisant le raycasting
-
----
+### 🎮 Castlevania 3D
+[![Projet](https://i.giphy.com/26Su5umeQ96mpOmkee.webp)](https://github.com/Yonieva/Castlevania-3d-Raycasting)
 
 ### 📟 Minishell
 [![Projet](https://media2.giphy.com/media/JmJMzlXOiI0dq/giphy.gif)](https://github.com/Demiaeuw/42_student/tree/main/08_minishell)
 
-> Reproduction simplifiée d’un shell Unix
-
----
-
-### 🐳 Inception (Docker)
+### 🐳 Inception
 [![Projet](https://media.giphy.com/media/3owvKdSecsPWrDDjIQ/giphy.gif)](https://github.com/Yonieva/Inception/tree/main/inception)
 
-> Infrastructure multi-services avec Docker-compose
-
----
-
-### 🌐 IRC Server (C++)
+### 🌐 IRC Server
 [![Projet](https://media4.giphy.com/media/26gJyTNcNib4MI944/giphy.gif)](https://github.com/gaesteve42/IRC)
-
-> Implémentation d’un serveur IRC fonctionnel
-
----
-
-### 📟 Projets C
-[![Projet](https://media.giphy.com/media/GwtfUx2P2HnvByDZdg/giphy.gif)](https://github.com/Yonieva/Projets-en-language-C)
-
-> Exercices et projets en langage C
-
----
-
-### 📟 Projets C++
-[![Projet](https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif)](https://github.com/Yonieva/Projets-en-language-CPP)
-
-> Exercices et projets en C++
 
 ---
 
