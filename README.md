@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href="https://diniiz.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;Optimisation+et+reprise+de+projet+⚡" />
   </a>
 </p>
 
