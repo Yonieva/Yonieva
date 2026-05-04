@@ -56,12 +56,6 @@
 
 ---
 
-## 🎓 Parcours École 42
-
-📄 [Voir mes projets et compétences](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
