@@ -46,8 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonieva&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonieva&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/Yonieva/Yonieva/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
