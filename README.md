@@ -70,7 +70,7 @@
 [![EDF](https://media.giphy.com/media/UdM6BoaQyIZHMU7YHu/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
 
 > Outil en C++ pour analyser des fichiers CSV EDF sans Excel  
-> ⚡ Rapide, simple, efficace  
+> Rapide, simple, efficace  
 
 ---
 
