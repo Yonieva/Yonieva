@@ -45,7 +45,7 @@ Details des projets realises et skills à l'école 42 :
 ![Bannière](./giphy.webp)
 
 
-##  Mes Projets
+##  Mes Projets pro
 
 
 ### ⚡ Projet en C++ -EDF CSV TOOL
@@ -55,6 +55,8 @@ Details des projets realises et skills à l'école 42 :
 > Outil en C++ permettant de consulter, analyser et rechercher facilement dans des fichiers CSV de facturation EDF, directement depuis le terminal.
 
 ---
+
+##  Mes Projets à l'ecole 42
 
 ### 🌐 JavaScript/HTML - Ft_Transcendence
 [![Site Web](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpraWJoZmR1Z2g4MXBsczMzaTRhOTl0NDBiaWM0bHI4OHpsOWxrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
