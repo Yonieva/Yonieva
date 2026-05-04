@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;" />
 
 <br>
 
