@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://diniiz.com/">
-    <img src="https://img.shields.io/badge/Diniiz-black?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="./assets/diniiz-logo.png" width="140"/>
   </a>
 </p>
 
