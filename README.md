@@ -9,15 +9,23 @@
 
 ---
 
- 
 <p align="center">
-  💻 Développeur sur <b><a href="https://diniiz.com/">Diniiz</a></b><br>
-  Plateforme digitale pour la gestion et la mise en relation dans la restauration<br><br>
-  
+  <a href="https://diniiz.com/">
+    <img src="https://diniiz.com/favicon.ico" width="100" style="border-radius:20px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://diniiz.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Développeur+sur+Diniiz;Plateforme+digitale+pour+la+restauration;Backend+%7C+API+%7C+Architecture;Optimisation+et+reprise+de+projet+⚡" />
+  </a>
+</p>
+
+<p align="center">
   ⚙️ Analyse et reprise d’un projet existant<br>
-  🧠 Amélioration de l’architecture backend et des flux de données<br>
+  🧠 Amélioration de l’architecture backend<br>
   🔗 Intégration et fiabilisation des API<br>
-  🚀 Optimisation des performances et de la structure globale
+  🚀 Optimisation des performances
 </p> 
 
 ---
