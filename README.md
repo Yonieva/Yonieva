@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yonieva/Yonieva/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonieva&theme=tokyo-night" />
 </p>
 
 ---
