@@ -9,7 +9,15 @@
 ---
 
 ## Moi, c'est Yoan !! 
-### Software Engineer – Backend, Frontend, APIs & Industrial Systems
+<p align="center">
+  💻 Développeur sur <b><a href="https://diniiz.com/">Diniiz</a></b><br>
+  Plateforme digitale pour la gestion et la mise en relation dans la restauration<br><br>
+  
+  ⚙️ Analyse et reprise d’un projet existant<br>
+  🧠 Amélioration de l’architecture backend et des flux de données<br>
+  🔗 Intégration et fiabilisation des API<br>
+  🚀 Optimisation des performances et de la structure globale
+</p> 
 
 ---
 
