@@ -33,24 +33,30 @@
 ### 💻 Langages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web
+### 🌐 Web & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-E34F26?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E34F26?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-339933?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-339933?style=for-the-badge&logo=mariadb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-339933?style=for-the-badge)
 
 ### 🚀 Infra & Deployment
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-0DB7ED?style=for-the-badge&logo=nginx&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0DB7ED?style=for-the-badge&logo=render&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-0DB7ED?style=for-the-badge&logo=pm2&logoColor=white)
 
 ### 🛠️ Outils
 ![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -59,6 +65,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=white)
+![TOPKAPI](https://img.shields.io/badge/TOPKAPI_Vision-181717?style=for-the-badge)
 
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
