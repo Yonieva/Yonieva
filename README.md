@@ -81,14 +81,22 @@
 
 ## 💼 Projets Professionnels
 
-[![Node](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsYW5wd29zeG01ZTRqZTZ6ZjVxZWNsd2M5cDJvanZzcGkwM3ZlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7PZsBmqGEL6nqrvwmx/giphy.gif)](https://github.com/Yonieva/Serveur-API-local-pour-Topkapi)
+### 🌊 Serveur API Local pour TOPKAPI
+[![Node.js](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsYW5wd29zeG01ZTRqZTZ6ZjVxZWNsd2M5cDJvanZzcGkwM3ZlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7PZsBmqGEL6nqrvwmx/giphy.gif)](https://github.com/Yonieva/Serveur-API-local-pour-Topkapi)
+
+> Serveur Node.js développé durant mon stage à la Régie de l’Eau  
+> Centralisation et traitement de données temps réel pour TOPKAPI  
+> Connexion aux APIs météo, Vigicrues, Hub’Eau, qualité de l’eau, nappes phréatiques…  
+> Architecture pensée pour la supervision industrielle et l’autatisation
 
 
 ### ⚡ EDF CSV TOOL (C++)
 [![EDF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVrYW1pZ2dta2M4N2QweHBzbWl6NDdndnYxYjMxM2N5NzdndWI5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QytRJAvwnaU7rvvjxC/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
-> Ce projet a été réalisé pour la Régie de l' eau de la communauté de communes Albères, Côte Vermeille, Illibèris  
-> Outil en C++ pour analyser des fichiers CSV EDF sans Excel  
-> Rapide, simple, efficace  
+
+> Projet réalisé pour la Régie de l’Eau de la Communauté de Communes Albères, Côte Vermeille, Illibéris  
+> Outil développé en C++ pour analyser des fichiers CSV EDF sans Excel  
+> Lecture rapide de gros fichiers, tri et extraction de données  
+> Application légère, simple et efficace 
 
 ---
 
