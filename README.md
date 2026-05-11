@@ -82,7 +82,7 @@
 ## 💼 Projets Professionnels
 
 ### 🌊 Serveur API Local pour TOPKAPI
-[![Node.js](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtsYW5wd29zeG01ZTRqZTZ6ZjVxZWNsd2M5cDJvanZzcGkwM3ZlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7PZsBmqGEL6nqrvwmx/giphy.gif)](https://github.com/Yonieva/Serveur-API-local-pour-Topkapi)
+[![Node.js](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21mZzNxdXYzZTliajVoNWRyaWJpejc4a3pvMmI1NXU1N2sxMjY2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F1ZsDCwtqhXNkX6ASl/giphy.gif)](https://github.com/Yonieva/Serveur-API-local-pour-Topkapi)
 
 > Serveur Node.js développé durant mon stage à la Régie de l’Eau  
 > Centralisation et traitement de données temps réel pour TOPKAPI  
