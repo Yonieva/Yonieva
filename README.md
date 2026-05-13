@@ -93,8 +93,11 @@
 > Architecture pensée pour la supervision industrielle et l’automatisation
 
 
+
 ### ⚡ EDF CSV TOOL (C++)
-[![EDF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVrYW1pZ2dta2M4N2QweHBzbWl6NDdndnYxYjMxM2N5NzdndWI5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QytRJAvwnaU7rvvjxC/giphy.gif)](https://github.com/Yonieva/EDF-CSV-TOOL)
+  <a href="https://github.com/Yonieva/EDF-CSV-TOOL">
+    <img width="1000" alt="EDF CSV Tool" src="https://github.com/user-attachments/assets/9328689f-7e3a-4460-a80b-0c49dc223a4b" />
+  </a>
 
 > Projet réalisé pour la Régie de l’Eau de la Communauté de Communes Albères, Côte Vermeille, Illibéris  
 > Outil développé en C++ pour analyser des fichiers CSV EDF sans Excel  
