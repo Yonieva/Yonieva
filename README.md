@@ -69,6 +69,7 @@
 
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -91,8 +92,7 @@
 > Centralisation et traitement de données temps réel pour TOPKAPI  
 > Connexion aux APIs météo, Vigicrues, Hub’Eau, qualité de l’eau, nappes phréatiques…  
 > Architecture pensée pour la supervision industrielle et l’automatisation
-
-
+---
 
 ### ⚡ EDF CSV TOOL (C++)
   <a href="https://github.com/Yonieva/EDF-CSV-TOOL">
