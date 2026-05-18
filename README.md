@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="ChatGPT Image 18 mai 2026, 11_46_50" src="https://github.com/user-attachments/assets/152c42ce-e1e6-443d-8417-888687f4b4ce" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Jeux+vidéo+%7C+Logiciels+internes+%7C+Web+%7C+Apps+" />
 </p>
