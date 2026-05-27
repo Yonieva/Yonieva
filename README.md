@@ -71,7 +71,7 @@
 ---
 
 ## 🎓 Projets École 42 📄 [Voir mes projets et compétences](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
-[![yonieva's 42 stats](https://badge.mediaplus.ma/water/yonieva)](https://github.com/yonieva/badge42)
+[![yonieva's 42 stats](https://badge.mediaplus.ma/binary/yonieva)](https://github.com/yonieva/badge42)
 
 ### 🌐 Ft_Transcendence
 [![Projet](https://media3.giphy.com/media/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
@@ -190,7 +190,7 @@
 ---
 
 ## 🎓 42 School Projects 📄 [View my projects and skills](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
-[![yonieva's 42 stats](https://badge.mediaplus.ma/water/yonieva)](https://github.com/yonieva/badge42)
+[![yonieva's 42 stats](https://badge.mediaplus.ma/binary/yonieva)](https://github.com/yonieva/badge42)
 
 ### 🌐 Ft_Transcendence
 [![Projet](https://media3.giphy.com/media/3upAsNdajOVkA/giphy.gif)](https://github.com/asangerm/Transcendence)
