@@ -233,7 +233,7 @@
 
 🎸 Bass Player  
 🎾 Padel  
-🧠 Science Enthusiast  
+🧠 Science   
 🕹️ Retro Gaming
 
 </details>
