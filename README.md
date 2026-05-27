@@ -1,6 +1,4 @@
 
-# 🌍 Language / Langue
-
 <details open>
 <summary>🇫🇷 Français</summary>
 
