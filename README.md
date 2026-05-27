@@ -1,6 +1,6 @@
 
 <details>
-<summary>🇫🇷 Français</summary>
+<summary>🇫🇷 Français ↩</summary>
 
 <br>
 
@@ -122,7 +122,7 @@
 ---
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>🇬🇧 English ↩</summary>
 
 <br>
 
