@@ -74,6 +74,8 @@
 
 ## 🎓 Projets École 42
 
+[![yonieva's 42 stats](https://badge.mediaplus.ma/water/yonieva)](https://github.com/yonieva/badge42)
+
 📄 [Voir mes projets et compétences](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
 
 ### 🌐 Ft_Transcendence
@@ -195,6 +197,8 @@
 ---
 
 ## 🎓 42 School Projects
+
+[![yonieva's 42 stats](https://badge.mediaplus.ma/water/yonieva)](https://github.com/yonieva/badge42)
 
 📄 [View my projects and skills](https://github.com/user-attachments/files/17805576/Projets_realises_et_skills_pendant_le_tronc_commun-42Perpignan_1.pdf)
 
