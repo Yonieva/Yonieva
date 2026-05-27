@@ -1,5 +1,5 @@
 
-<details open>
+<details>
 <summary>🇫🇷 Français</summary>
 
 <br>
