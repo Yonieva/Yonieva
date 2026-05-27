@@ -1,10 +1,8 @@
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f7c81a-e25c-4d0e-b8b4-417b0a34aafc" />
 <details>
 <summary>🇫🇷 Français ↩</summary>
 
 <br>
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f7c81a-e25c-4d0e-b8b4-417b0a34aafc" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Jeux+vidéo+%7C+Logiciels+internes+%7C+Web+%7C+Apps+" />
@@ -125,8 +123,6 @@
 <summary>🇬🇧 English ↩</summary>
 
 <br>
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f7c81a-e25c-4d0e-b8b4-417b0a34aafc" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&center=true&vCenter=true&width=900&lines=Yoan+-+Software+Engineer;Video+Games+%7C+Internal+Software+%7C+Web+%7C+Apps+" />
