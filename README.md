@@ -1,6 +1,9 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f7c81a-e25c-4d0e-b8b4-417b0a34aafc" />
 <details>
-<summary>🇫🇷 Français ↩</summary>
+  
+<summary>
+  <h2 align="center">🇫🇷 Français ↩</h2>
+</summary>
 
 <br>
 
@@ -120,7 +123,9 @@
 ---
 
 <details>
-<summary>🇬🇧 English ↩</summary>
+<summary>
+  <h2 align="center">🇬🇧 English ↩</h2>
+</summary>
 
 <br>
 
