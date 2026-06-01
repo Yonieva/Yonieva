@@ -2,7 +2,7 @@
 <details>
   
 <summary>
-  <h2 align="center">🇫🇷 Français ↩</h2>
+  <h2 align="center">🇫🇷 Français </h2>
 </summary>
 
 <br>
@@ -124,7 +124,7 @@
 
 <details>
 <summary>
-  <h2 align="center">🇬🇧 English ↩</h2>
+  <h2 align="center">🇬🇧 English </h2>
 </summary>
 
 <br>
