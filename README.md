@@ -55,7 +55,8 @@
 
 > Serveur Node.js développé durant mon stage à la Régie de l’Eau  
 > Centralisation et traitement de données temps réel pour TOPKAPI  
-> Connexion aux APIs météo, Vigicrues, Hub’Eau, qualité de l’eau et nappes phréatiques  
+> Connexion aux APIs météo, Vigicrues, Hub’Eau, qualité de l’eau, nappes phréatiques et données INSEE
+> Extraction, et trie des données EDF via CSV
 > Architecture pensée pour la supervision industrielle et l’automatisation
 
 ---
