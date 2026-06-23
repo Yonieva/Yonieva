@@ -17,7 +17,7 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
 
 <a href="https://diniiz.com/">
   <img src="./assets/diniiz-logo.png" width="120" alt="Logo Diniiz"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Visiter%20Diniiz-diniiz.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</div> -->
 
 ---
 
