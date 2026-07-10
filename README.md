@@ -140,26 +140,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://diniiz.com/">
-  <img src="./assets/diniiz-logo.png" width="120" alt="Diniiz Logo"/>
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Developer+at+Diniiz;Digital+platform+for+restaurants;" />
-
-<br>
-
-<a href="https://diniiz.com/">
-  <img src="https://img.shields.io/badge/Visit%20Diniiz-diniiz.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
