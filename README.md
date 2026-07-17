@@ -83,6 +83,9 @@
 ### 🎮 Castlevania 3D
 [![Projet](https://i.giphy.com/26Su5umeQ96mpOmkee.webp)](https://github.com/Yonieva/Castlevania-3d-Raycasting)
 
+### 🎮 Metal Gear 2D
+[![Projet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ3NTU4c2N6dmYydGlmdnplc3l5NzBldTd6b2o5bGVrN2Z6ZHR0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lfpwRGOHLZXsA/giphy.gif)](https://github.com/Yonieva/Metal-Gear-2D)
+
 ### 📟 Minishell
 [![Projet](https://media2.giphy.com/media/JmJMzlXOiI0dq/giphy.gif)](https://github.com/Demiaeuw/42_student/tree/main/08_minishell)
 
@@ -183,6 +186,9 @@
 
 ### 🎮 Castlevania 3D
 [![Projet](https://i.giphy.com/26Su5umeQ96mpOmkee.webp)](https://github.com/Yonieva/Castlevania-3d-Raycasting)
+
+### 🎮 Metal Gear 2D
+[![Projet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ3NTU4c2N6dmYydGlmdnplc3l5NzBldTd6b2o5bGVrN2Z6ZHR0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lfpwRGOHLZXsA/giphy.gif)](https://github.com/Yonieva/Metal-Gear-2D)
 
 ### 📟 Minishell
 [![Projet](https://media2.giphy.com/media/JmJMzlXOiI0dq/giphy.gif)](https://github.com/Demiaeuw/42_student/tree/main/08_minishell)
