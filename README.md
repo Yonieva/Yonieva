@@ -22,7 +22,7 @@
 
 ### 🎵 ON STAJ — Rhythm Game (Unity / C#)
 
-<a href="https://github.com/Yonieva/ON-STAJ">
+<a href="https://github.com/Yonieva/ONSTAJ">
   <img width="1000" alt="ONSTAJ - Rhythm Game" src="https://github.com/user-attachments/assets/d02804a6-21c2-40b6-84d2-1dd98d04c01b" />
 </a>
 
@@ -137,7 +137,7 @@
 
 ### 🎵 ON STAJ — Rhythm Game (Unity / C#)
 
-<a href="https://github.com/Yonieva/ON-STAJ">
+<a href="https://github.com/Yonieva/ONSTAJ">
   <img width="1000" alt="ONSTAJ - Rhythm Game" src="https://github.com/user-attachments/assets/d02804a6-21c2-40b6-84d2-1dd98d04c01b" />
 </a>
 
