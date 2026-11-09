@@ -17,6 +17,23 @@
 
 ---
 
+## 🎮 Projets Solo
+
+
+### 🎵 ON STAJ — Rhythm Game (Unity / C#)
+
+<a href="https://github.com/Yonieva/ON-STAJ">
+  <img width="1000" alt="ON STAJ - Rhythm Game" src="(https://github.com/user-attachments/assets/d02804a6-21c2-40b6-84d2-1dd98d04c01b)" />
+</a>
+
+> Jeu de rythme développé sous Unity en C#  
+> Gameplay à quatre touches (D/F/J/K), avec différents types de notes  
+> Système de score, combos et calcul de précision  
+> Interface de jeu et écran de résultats  
+> Prototype avancé réalisé en projet personnel
+
+
+---
 
 ## 💼 Projets Professionnels
 
